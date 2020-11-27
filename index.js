@@ -2,8 +2,8 @@ require("dotenv").config();
 const process = require("process");
 
 const yargs = require("yargs");
-const change = require("./twilio-url");
-const list = require("./twilio-sid");
+const change = require("./src/twilio-url");
+const list = require("./src/twilio-sid");
 
 async function main() {
     const argv = yargs
