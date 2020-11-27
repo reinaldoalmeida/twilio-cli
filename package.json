@@ -1,5 +1,5 @@
 {
-  "name": "node-twilio",
+  "name": "twilio-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
