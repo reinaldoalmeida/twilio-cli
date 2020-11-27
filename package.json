@@ -1,0 +1,22 @@
+{
+  "name": "node-twilio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js sid",
+    "test": "mocha tests.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6",
+    "twilio": "^3.52.0",
+    "yargs": "^16.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
