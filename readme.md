@@ -30,5 +30,5 @@ node index.js sid
 ## Change Webhook URL
 
 ```bash
-node index.js url https://{your url here} -p {SID phone number}
+node index.js url {your url here} -p {SID phone number}
 ```
